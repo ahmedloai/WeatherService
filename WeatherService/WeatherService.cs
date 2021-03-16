@@ -13,6 +13,9 @@ namespace WeatherService
 
         public static string getWeather(string city, char unit)
         {
+            if (unit != 'C' && unit != 'F')
+                return "Invalid temp unit";
+
             HttpClient client = new HttpClient();
             client.BaseAddress = new Uri(URL);
             string urlParameters = String.Format("?q={0}&appid=6b34b4b2b9b20b3af3530f12a8a7723e", city);
