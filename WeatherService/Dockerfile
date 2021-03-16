@@ -10,6 +10,7 @@ WORKDIR /src
 COPY ["WeatherService/WeatherService.csproj", "WeatherService/"]
 RUN dotnet restore "WeatherService/WeatherService.csproj"
 COPY . .
+ENV APIKEY 6b34b4b2b9b20b3af3530f12a8a7723e
 WORKDIR "/src/WeatherService"
 RUN dotnet build "WeatherService.csproj" -c Release -o /app/build
 

@@ -20,3 +20,8 @@ C:\Users\loaic\source\repos\WeatherService\WeatherService\obj\Debug\netcoreapp3.
 C:\Users\loaic\source\repos\WeatherService\WeatherService\obj\Debug\netcoreapp3.1\WeatherService.genruntimeconfig.cache
 C:\Users\loaic\source\repos\WeatherService\WeatherService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\loaic\source\repos\WeatherService\WeatherService\obj\Debug\netcoreapp3.1\WeatherService.csproj.CopyComplete
+C:\Users\loaic\source\repos\WeatherService\WeatherService\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\loaic\source\repos\WeatherService\WeatherService\bin\Debug\netcoreapp3.1\Azure.Messaging.EventHubs.dll
+C:\Users\loaic\source\repos\WeatherService\WeatherService\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\loaic\source\repos\WeatherService\WeatherService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\loaic\source\repos\WeatherService\WeatherService\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
