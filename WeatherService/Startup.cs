@@ -38,8 +38,9 @@ namespace WeatherService
 
                 endpoints.MapGet("/weather", async context =>
                 {
-                    await context.Response.WriteAsync("Getting Temperature: ");
-                    await context.Response.WriteAsync(WeatherService.getWeather("bremen",'C'));
+                    await context.Response.WriteAsync("Getting Temperature: <br>");
+                    await context.Response.WriteAsync("C: "+ WeatherService.getWeather("bremen",'C'));
+                    await context.Response.WriteAsync("F: " + WeatherService.getWeather("bremen", 'F'));
                 });
             });
         }
