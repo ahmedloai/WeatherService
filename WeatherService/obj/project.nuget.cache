@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UMydkETG8+Ety1wPQ81y2RWg8zgpNGoSatEcwH8lkKuP9ymlK+yBkg3o11XIvVmts9PVr1Zcrs0nFwSGfRy4sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\loaic\\source\\repos\\WeatherService\\WeatherService\\WeatherService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loaic\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "C:\\Users\\loaic\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
